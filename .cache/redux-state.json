@@ -1,0 +1,243 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/dev-404-page/\"}",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/craigcoles/projects/craig-coles.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin component-page-creator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "392ddcb6d2e3b3624b65e52f38b2c6ca",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/craigcoles/projects/craig-coles.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator\",\"name\":\"component-page-creator\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/craigcoles/projects/craig-coles.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin internal-data-bridge",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b7c36cc976d8e847b27ef3072fbf5dab",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/craigcoles/projects/craig-coles.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge\",\"name\":\"internal-data-bridge\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/craigcoles/projects/craig-coles.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin dev-404-page",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0ebaf3e27f75a0d819c03c538f1177e6",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/craigcoles/projects/craig-coles.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page\",\"name\":\"dev-404-page\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/craigcoles/projects/craig-coles.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin query-runner",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8296feb8ece51957c524875d2b25b6d2",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/craigcoles/projects/craig-coles.github.io/node_modules/gatsby/dist/internal-plugins/query-runner\",\"name\":\"query-runner\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/craigcoles/projects/craig-coles.github.io",
+      "name": "default-site-plugin",
+      "version": "d41d8cd98f00b204e9800998ecf8427e",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "craig-coles.github.io",
+        "description": "my personal site",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Craig Coles",
+        "license": "ISC",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0-beta.5"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.0.0-beta.4"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin default-site-plugin",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "97f94d023215280b0d8826293659e6d8",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/craigcoles/projects/craig-coles.github.io\",\"name\":\"default-site-plugin\",\"version\":\"d41d8cd98f00b204e9800998ecf8427e\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {},
+      "buildTime": "2017-06-27T21:01:29.432Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "87a02d787e896229a2a344022b446eeb",
+        "content": "{\"siteMetadata\":{},\"buildTime\":\"2017-06-27T21:01:29.432Z\"}",
+        "mediaType": "application/json",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "/Users/craigcoles/projects/craig-coles.github.io/src/pages/index.js",
+      "componentChunkName": "page-component---src-pages-index-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "context": {},
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/\",\"component\":\"/Users/craigcoles/projects/craig-coles.github.io/src/pages/index.js\",\"componentChunkName\":\"page-component---src-pages-index-js\",\"jsonName\":\"index.json\",\"internalComponentName\":\"ComponentIndex\",\"context\":{}}",
+        "contentDigest": "34671d4f89cb34c0481f38bf425c6a04",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /another-cool-page/": {
+      "path": "/another-cool-page/",
+      "component": "/Users/craigcoles/projects/craig-coles.github.io/src/pages/another-cool-page/index.js",
+      "componentChunkName": "page-component---src-pages-another-cool-page-index-js",
+      "jsonName": "another-cool-page.json",
+      "internalComponentName": "ComponentAnotherCoolPage",
+      "context": {},
+      "id": "SitePage /another-cool-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/another-cool-page/\",\"component\":\"/Users/craigcoles/projects/craig-coles.github.io/src/pages/another-cool-page/index.js\",\"componentChunkName\":\"page-component---src-pages-another-cool-page-index-js\",\"jsonName\":\"another-cool-page.json\",\"internalComponentName\":\"ComponentAnotherCoolPage\",\"context\":{}}",
+        "contentDigest": "0025465b2703a6846b1a63601c613553",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "1f32b9cb2fd5b8281d30051bd6a82cb3"
+  },
+  "pageDataDependencies": {
+    "nodes": {},
+    "connections": {}
+  }
+}

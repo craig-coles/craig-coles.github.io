@@ -1,0 +1,12 @@
+[
+    {
+        "componentChunkName": "page-component---src-pages-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "page-component---src-pages-another-cool-page-index-js",
+        "jsonName": "another-cool-page.json",
+        "path": "/another-cool-page/"
+    }
+]
