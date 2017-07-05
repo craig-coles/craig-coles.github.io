@@ -1,28 +1,36 @@
 {
   "assetsByChunkName": {
     "commons": [
-      "commons-5ec4351fed724a53d131.js",
-      "commons-5ec4351fed724a53d131.js.map"
+      "commons-3c6b606c62f6a80ad8a4.js",
+      "commons-3c6b606c62f6a80ad8a4.js.map"
     ],
-    "page-component---src-pages-work-index-js": [
-      "page-component---src-pages-work-index-js-af923b8d8cf0cf4d666a.js",
-      "page-component---src-pages-work-index-js-af923b8d8cf0cf4d666a.js.map"
+    "page-component---src-templates-recipe-js": [
+      "page-component---src-templates-recipe-js-ed566a0013b44cf15535.js",
+      "page-component---src-templates-recipe-js-ed566a0013b44cf15535.js.map"
     ],
     "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-ef5aea745e9ea11eed73.js",
-      "page-component---src-pages-index-js-ef5aea745e9ea11eed73.js.map"
+      "page-component---src-pages-index-js-442b04d409166e4cab33.js",
+      "page-component---src-pages-index-js-442b04d409166e4cab33.js.map"
     ],
-    "path---work": [
-      "path---work-586c7e095e534a3909ec.js",
-      "path---work-586c7e095e534a3909ec.js.map"
+    "layout-component---index": [
+      "layout-component---index-49b512300218dce6fe78.js",
+      "layout-component---index-49b512300218dce6fe78.js.map"
+    ],
+    "path---recipes-ec-q-4-o-2-ti-n-my-0-aesy-8-yy-6-w": [
+      "path---recipes-ec-q-4-o-2-ti-n-my-0-aesy-8-yy-6-w-f0eabe433e1e7081d6b9.js",
+      "path---recipes-ec-q-4-o-2-ti-n-my-0-aesy-8-yy-6-w-f0eabe433e1e7081d6b9.js.map"
+    ],
+    "path---recipes-c-1-eb-qaqd-nv-ycg-ewa-wiiy-4-oa": [
+      "path---recipes-c-1-eb-qaqd-nv-ycg-ewa-wiiy-4-oa-072aad8ea8afe9c1bd2f.js",
+      "path---recipes-c-1-eb-qaqd-nv-ycg-ewa-wiiy-4-oa-072aad8ea8afe9c1bd2f.js.map"
     ],
     "path---index": [
-      "path---index-586c7e095e534a3909ec.js",
-      "path---index-586c7e095e534a3909ec.js.map"
+      "path---index-22662eff1d4f0eb59e73.js",
+      "path---index-22662eff1d4f0eb59e73.js.map"
     ],
     "app": [
-      "app-1f39bd019495e9e36f83.js",
-      "app-1f39bd019495e9e36f83.js.map"
+      "app-356ef3acaf8ef7732e1c.js",
+      "app-356ef3acaf8ef7732e1c.js.map"
     ]
   }
 }
