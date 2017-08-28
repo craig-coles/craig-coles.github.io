@@ -1,20 +1,40 @@
 {
   "assetsByChunkName": {
     "commons": [
-      "commons-3c6b606c62f6a80ad8a4.js",
-      "commons-3c6b606c62f6a80ad8a4.js.map"
+      "commons-de6a5df25ab8575bd539.js",
+      "commons-de6a5df25ab8575bd539.js.map"
     ],
     "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-032982d0085582f1f545.js",
-      "page-component---src-pages-index-js-032982d0085582f1f545.js.map"
+      "page-component---src-pages-index-js-eec0b1a64223d9529c1f.js",
+      "page-component---src-pages-index-js-eec0b1a64223d9529c1f.js.map"
+    ],
+    "page-component---src-templates-work-js": [
+      "page-component---src-templates-work-js-fdde02786592ba17d73e.js",
+      "page-component---src-templates-work-js-fdde02786592ba17d73e.js.map"
     ],
     "page-component---src-templates-recipe-js": [
-      "page-component---src-templates-recipe-js-ed566a0013b44cf15535.js",
-      "page-component---src-templates-recipe-js-ed566a0013b44cf15535.js.map"
+      "page-component---src-templates-recipe-js-d78889f5ca52dcd52012.js",
+      "page-component---src-templates-recipe-js-d78889f5ca52dcd52012.js.map"
     ],
     "layout-component---index": [
-      "layout-component---index-49b512300218dce6fe78.js",
-      "layout-component---index-49b512300218dce6fe78.js.map"
+      "layout-component---index-b01077595eddc714df15.js",
+      "layout-component---index-b01077595eddc714df15.js.map"
+    ],
+    "page-component---src-pages-work-index-js": [
+      "page-component---src-pages-work-index-js-b34097f68be1063a19fa.js",
+      "page-component---src-pages-work-index-js-b34097f68be1063a19fa.js.map"
+    ],
+    "path---work": [
+      "path---work-9beab12888f382de4d48.js",
+      "path---work-9beab12888f382de4d48.js.map"
+    ],
+    "path---work-michelin": [
+      "path---work-michelin-c6e5b08e87507bf01034.js",
+      "path---work-michelin-c6e5b08e87507bf01034.js.map"
+    ],
+    "path---work-canon": [
+      "path---work-canon-86f91a4fa6d16dce1e01.js",
+      "path---work-canon-86f91a4fa6d16dce1e01.js.map"
     ],
     "path---recipes-pork-carinitas": [
       "path---recipes-pork-carinitas-072aad8ea8afe9c1bd2f.js",
@@ -29,8 +49,8 @@
       "path---index-6c42f663b90c27cfb05f.js.map"
     ],
     "app": [
-      "app-caf2aef3ffdf7820e26b.js",
-      "app-caf2aef3ffdf7820e26b.js.map"
+      "app-91e275fd6c7db5916f19.js",
+      "app-91e275fd6c7db5916f19.js.map"
     ]
   }
 }
