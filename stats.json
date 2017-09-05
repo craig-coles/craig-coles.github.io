@@ -1,56 +1,68 @@
 {
   "assetsByChunkName": {
+    "app": [
+      "app-ae00e64628a90bd9601a.js",
+      "build-javascript.css",
+      "app-ae00e64628a90bd9601a.js.map",
+      "build-javascript.css.map"
+    ],
     "commons": [
-      "commons-de6a5df25ab8575bd539.js",
-      "commons-de6a5df25ab8575bd539.js.map"
+      "commons-e2ece08121acff06acc0.js",
+      "build-javascript.css",
+      "commons-e2ece08121acff06acc0.js.map",
+      "build-javascript.css.map"
     ],
-    "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-eec0b1a64223d9529c1f.js",
-      "page-component---src-pages-index-js-eec0b1a64223d9529c1f.js.map"
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-1c12d51af695c50fa0ee.js",
+      "component---src-layouts-index-js-1c12d51af695c50fa0ee.js.map"
     ],
-    "page-component---src-templates-work-js": [
-      "page-component---src-templates-work-js-fdde02786592ba17d73e.js",
-      "page-component---src-templates-work-js-fdde02786592ba17d73e.js.map"
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-b136f4faa6e0ce8f6bf4.js",
+      "component---src-pages-index-js-b136f4faa6e0ce8f6bf4.js.map"
     ],
-    "page-component---src-templates-recipe-js": [
-      "page-component---src-templates-recipe-js-d78889f5ca52dcd52012.js",
-      "page-component---src-templates-recipe-js-d78889f5ca52dcd52012.js.map"
+    "component---src-pages-work-index-js": [
+      "component---src-pages-work-index-js-18ca1d35bd39836d7773.js",
+      "component---src-pages-work-index-js-18ca1d35bd39836d7773.js.map"
     ],
-    "layout-component---index": [
-      "layout-component---index-9a26f5e102732ee67c20.js",
-      "layout-component---index-9a26f5e102732ee67c20.js.map"
+    "component---src-templates-recipe-js": [
+      "component---src-templates-recipe-js-a5afdac6b1c9f2daeade.js",
+      "component---src-templates-recipe-js-a5afdac6b1c9f2daeade.js.map"
     ],
-    "page-component---src-pages-work-index-js": [
-      "page-component---src-pages-work-index-js-b34097f68be1063a19fa.js",
-      "page-component---src-pages-work-index-js-b34097f68be1063a19fa.js.map"
+    "component---src-templates-work-js": [
+      "component---src-templates-work-js-e806d8c8e22bef2abeef.js",
+      "component---src-templates-work-js-e806d8c8e22bef2abeef.js.map"
     ],
-    "path---work": [
-      "path---work-9beab12888f382de4d48.js",
-      "path---work-9beab12888f382de4d48.js.map"
-    ],
-    "path---work-michelin": [
-      "path---work-michelin-c6e5b08e87507bf01034.js",
-      "path---work-michelin-c6e5b08e87507bf01034.js.map"
-    ],
-    "path---work-canon": [
-      "path---work-canon-86f91a4fa6d16dce1e01.js",
-      "path---work-canon-86f91a4fa6d16dce1e01.js.map"
-    ],
-    "path---recipes-pork-carinitas": [
-      "path---recipes-pork-carinitas-072aad8ea8afe9c1bd2f.js",
-      "path---recipes-pork-carinitas-072aad8ea8afe9c1bd2f.js.map"
-    ],
-    "path---recipes-chipotle-fire-roasted-salsa": [
-      "path---recipes-chipotle-fire-roasted-salsa-f0eabe433e1e7081d6b9.js",
-      "path---recipes-chipotle-fire-roasted-salsa-f0eabe433e1e7081d6b9.js.map"
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
     ],
     "path---index": [
-      "path---index-6c42f663b90c27cfb05f.js",
-      "path---index-6c42f663b90c27cfb05f.js.map"
+      "path---index-9ee66f135a18ee4b85dc.js",
+      "path---index-9ee66f135a18ee4b85dc.js.map"
     ],
-    "app": [
-      "app-91e275fd6c7db5916f19.js",
-      "app-91e275fd6c7db5916f19.js.map"
+    "path---recipes-chipotle-fire-roasted-salsa": [
+      "path---recipes-chipotle-fire-roasted-salsa-625521bdb42d222a36cb.js",
+      "path---recipes-chipotle-fire-roasted-salsa-625521bdb42d222a36cb.js.map"
+    ],
+    "path---recipes-pork-carinitas": [
+      "path---recipes-pork-carinitas-7192cb688f8ff6486481.js",
+      "path---recipes-pork-carinitas-7192cb688f8ff6486481.js.map"
+    ],
+    "path---work": [
+      "path---work-2bf6616aced95513f945.js",
+      "path---work-2bf6616aced95513f945.js.map"
+    ],
+    "path---work-canon": [
+      "path---work-canon-513fb8bfad94faebae61.js",
+      "path---work-canon-513fb8bfad94faebae61.js.map"
+    ],
+    "path---work-michelin": [
+      "path---work-michelin-8afb21d3f69f754cf056.js",
+      "path---work-michelin-8afb21d3f69f754cf056.js.map"
+    ],
+    "webpack-runtime": [
+      "webpack-runtime-d41d8cd98f00b204e980.js",
+      "webpack-runtime-d41d8cd98f00b204e980.js.map"
     ]
   }
 }
