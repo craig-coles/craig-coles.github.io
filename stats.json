@@ -1,40 +1,48 @@
 {
   "assetsByChunkName": {
     "app": [
-      "app-ae00e64628a90bd9601a.js",
+      "app-9c67971481385a99f948.js",
       "build-javascript.css",
-      "app-ae00e64628a90bd9601a.js.map",
+      "app-9c67971481385a99f948.js.map",
       "build-javascript.css.map"
     ],
     "commons": [
-      "commons-e2ece08121acff06acc0.js",
+      "commons-959983c36efb0ce6c165.js",
       "build-javascript.css",
-      "commons-e2ece08121acff06acc0.js.map",
+      "commons-959983c36efb0ce6c165.js.map",
       "build-javascript.css.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-22b8d165dc369aeeb514.js",
-      "component---src-layouts-index-js-22b8d165dc369aeeb514.js.map"
+      "component---src-layouts-index-js-63dac24a0af27f3c3f47.js",
+      "component---src-layouts-index-js-63dac24a0af27f3c3f47.js.map"
+    ],
+    "component---src-pages-about-index-js": [
+      "component---src-pages-about-index-js-6ada68484e5d00151e75.js",
+      "component---src-pages-about-index-js-6ada68484e5d00151e75.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-b136f4faa6e0ce8f6bf4.js",
-      "component---src-pages-index-js-b136f4faa6e0ce8f6bf4.js.map"
+      "component---src-pages-index-js-ab8daefb8b12a729630b.js",
+      "component---src-pages-index-js-ab8daefb8b12a729630b.js.map"
     ],
     "component---src-pages-work-index-js": [
-      "component---src-pages-work-index-js-18ca1d35bd39836d7773.js",
-      "component---src-pages-work-index-js-18ca1d35bd39836d7773.js.map"
+      "component---src-pages-work-index-js-cb5b65595d2ad6824e7a.js",
+      "component---src-pages-work-index-js-cb5b65595d2ad6824e7a.js.map"
     ],
     "component---src-templates-recipe-js": [
-      "component---src-templates-recipe-js-a5afdac6b1c9f2daeade.js",
-      "component---src-templates-recipe-js-a5afdac6b1c9f2daeade.js.map"
+      "component---src-templates-recipe-js-1b53936f1a78d8c97677.js",
+      "component---src-templates-recipe-js-1b53936f1a78d8c97677.js.map"
     ],
     "component---src-templates-work-js": [
-      "component---src-templates-work-js-e806d8c8e22bef2abeef.js",
-      "component---src-templates-work-js-e806d8c8e22bef2abeef.js.map"
+      "component---src-templates-work-js-ac4a7dfa73df38c156f5.js",
+      "component---src-templates-work-js-ac4a7dfa73df38c156f5.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-9ee66f135a18ee4b85dc.js",
@@ -49,16 +57,16 @@
       "path---recipes-pork-carinitas-7192cb688f8ff6486481.js.map"
     ],
     "path---work": [
-      "path---work-2bf6616aced95513f945.js",
-      "path---work-2bf6616aced95513f945.js.map"
+      "path---work-526310eb2535444af1e0.js",
+      "path---work-526310eb2535444af1e0.js.map"
     ],
     "path---work-canon": [
-      "path---work-canon-513fb8bfad94faebae61.js",
-      "path---work-canon-513fb8bfad94faebae61.js.map"
+      "path---work-canon-7ac76bb2e048f4f623a2.js",
+      "path---work-canon-7ac76bb2e048f4f623a2.js.map"
     ],
     "path---work-michelin": [
-      "path---work-michelin-8afb21d3f69f754cf056.js",
-      "path---work-michelin-8afb21d3f69f754cf056.js.map"
+      "path---work-michelin-363e7e1d990ce30af717.js",
+      "path---work-michelin-363e7e1d990ce30af717.js.map"
     ],
     "webpack-runtime": [
       "webpack-runtime-d41d8cd98f00b204e980.js",
